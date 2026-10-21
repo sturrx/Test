@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+p {
+    color: #9d806c;
+    font-size: 20px;
+}
+
+h2 {
+    color: #000000;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+}
+
+.title {
+    color: #4c5ee2;
+}
+
+.list {
+    list-style-type: none;
+    margin-right: 40px;
+}
